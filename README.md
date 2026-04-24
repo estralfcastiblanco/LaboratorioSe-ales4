@@ -109,7 +109,7 @@ En conjunto, los resultados confirman que el método implementado de filtro es c
 
 
 
-### g) Parte Fisiológica
+### g) Parte Fisiológic
 Debido a la repetición de contracciones se acumularon productos sub y metabólicos como lo son principalmente iones de hidrógeno, la reducción de ATP afectó a la propagación del potencial de acción por las fibras musculares (sarcolema)  y la disminución del potencial de membrana en la fibra muscular debido a la acumulación de potasio K+ extracelular.
 Esta disminución en la velocidad de conducción es la que provoca el desplazamiento del EMG hacia frecuencias más bajas, por lo cual no se presencia una fatiga clara, esto puede ser porque el ejercicio haya sido de muy baja intensidad o de poca duración para inducir cambios metabólicos y de velocidad de conducción.
 

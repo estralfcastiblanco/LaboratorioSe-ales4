@@ -19,7 +19,8 @@ Posteriormente se realiza el cálculo de la frecuencia media y la frecuencia med
 
 En la tabla se presentan los valores de frecuencia media y frecuencia mediana correspondientes a cinco contracciones musculares extraídas de la señal EMG. Estos parámetros reflejan la distribución de energía en el espectro de la señal y están directamente relacionados con la actividad eléctrica de las fibras musculares durante la contracción. 
 
-<img width="496" height="185" alt="Captura de pantalla 2025-11-02 222943" src="https://github.com/user-attachments/assets/7cdc4b55-aebf-48fc-b5c2-70169b52e5ed" />
+<img width="348" height="131" alt="image" src="https://github.com/user-attachments/assets/9591038c-cfd5-4c15-bf84-4a68be2732ee" />
+
 
 
 Se observa que la frecuencia media aumenta ligeramente desde aproximadamente 84.9 Hz en la primera contracción hasta 91.4 Hz en la quinta. De forma similar, la frecuencia mediana también muestra un incremento leve, pasando de 33.2 Hz a 35.1 Hz. Este comportamiento sugiere que no hay una disminución significativa en las frecuencias características de la señal, lo cual indica que no se evidencia un proceso claro de fatiga muscular dentro del intervalo analizado. En condiciones de fatiga, se esperaría una tendencia descendente en ambas frecuencias, ya que la conducción de los potenciales de acción en las fibras musculares se hace más lenta con el cansancio. Por el contrario, el aumento progresivo que se evidencia podría deberse a una mayor activación de unidades motoras o a una mejora en la sincronización de las mismas a medida que avanza el registro, reflejando un patrón de adaptación o reclutamiento progresivo más que de fatiga.
